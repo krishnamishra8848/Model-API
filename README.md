@@ -10,6 +10,9 @@ The Flask web application hosts a machine learning model trained on the Iris dat
 
 - **Predict Iris Species:** Input Sepal Length, Sepal Width, Petal Length, and Petal Width to get a prediction of the Iris flower species.
 
+- You can call this model through https://model-api-tj8j.onrender.com/predict?sepal_length=5.1&sepal_width=3.5&petal_length=1.4&petal_width=0.2
+
+
 ## Installation
 
 1. Clone the repository:
